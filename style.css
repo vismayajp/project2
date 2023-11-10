@@ -1,0 +1,227 @@
+*{
+    margin: 0px;
+}
+
+
+.inbox1{
+    /* background-color: aquamarine; */
+    height: 90px;
+  
+}
+.ho{
+    color:black;
+    font-size: 30px;
+    
+    padding-bottom:10px ;
+}
+.vv{
+    color: gray;
+    font-size: 15px;
+    
+   
+}
+
+.inbox2{
+    background-color: skyblue;
+    height: 500px;
+    
+}
+.inbox3{
+    /* background-color:burlywood; */
+    /* height: 300px; */
+    text-align: center;
+    margin-top: 50px;
+}
+.sec1{
+    background-color: white;
+}
+.sec2{
+    background-color:skyblue;
+}
+.pp{
+    color: white;
+    font-size: 50px;
+    
+}
+.vj{
+    color: white;
+    font-size: 20px;
+}
+.vk{
+    color: white;
+  
+}
+.nn{
+    color:skyblue;
+    background-color:white;
+    border-color: whitesmoke;
+    margin-bottom: 15px;
+  
+    
+}
+.inbox4{
+    /* background-color: blanchedalmond; */
+    /* height: 210px; */
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.vb{
+    color:gray;
+    max-width: 90px;
+    margin: auto;
+    text-align: center;
+  
+}
+.vi{
+    color: black;
+    font-size: 15px;
+}
+.bn{
+    color: skyblue;
+    border-color: skyblue;
+border-style: solid;
+    text-decoration: none;
+}
+.bn:hover .a{
+    color: skyblue;
+}
+.hh{
+    color: skyblue;
+    background-color: white;
+    border-color: skyblue;
+    size: 12px;
+    margin-bottom: 15px;
+}
+.inbox5{
+/* background-color: aquamarine; */
+/* height: 200px; */
+text-align: center;
+margin-top: 80PX;
+color: white;
+
+}
+.inbox6{
+    /* background-color: aquamarine; */
+    /* height: 200px; */
+    text-align: center;
+    margin-top: 80PX;
+    color: white;
+    
+    }
+    .inbox7{
+        /* background-color: aquamarine; */
+        /* height: 200px; */
+        text-align: center;
+        margin-top: 80PX;
+        color: white;
+        
+        }
+        .vh{
+            color:white;
+            max-width: 90px;
+            margin: auto;
+            text-align: center;
+          
+        }
+        .inbox8{
+            /* background-color: aquamarine; */
+            /* height: 250px; */
+            text-align: center;
+            margin-top: 80PX;
+        }
+        .sec3{
+            background-color: black;
+            padding-bottom: 15px;
+        }
+        .nh{
+            color: white;
+        }
+        .vk{
+            color: white;
+            font-size: 15px;
+            margin-top: 20px;
+        }
+        .inbox9{
+            /* background-color:white; */
+            /* height: 300px; */
+            text-align: center;
+            margin-top: 30px;
+        }
+        .inbox10{
+            background-color:black;
+            /* height: 250px; */
+            text-align: center;
+            margin-top: 60px;
+        }
+        .mm{
+            color: white;
+            margin-top: 40px;
+            font-size: 25px;
+        }
+        .kk{
+            color: white;
+            margin-top: 10px;
+            font-size: 15px;
+        }
+        .sec4{
+            background-color:black;
+            padding-bottom: 15px;
+        }
+        .inbox11{
+            /* background-color: aqua; */
+            /* height: 200px; */
+            text-align: center;
+        }
+        .inbox13{
+             color: bisque;height: 200px;
+        }
+        .bi{
+            margin-top: 50px;
+            display:inline-block;
+            padding: 16px;
+            font-size: 30px;
+            color: gray;
+        }
+        .hi{
+            color: gray;
+        }
+        .inbox15{
+            /* background-color:red; */
+            min-height: 300px;
+            margin-top: 15px;
+            
+        }
+        .ee{
+            color: white;
+            /* margin-top: 14px;
+            display: inline-block; */
+            font-size: 30px;
+            /* padding: 15px; */
+        }
+        .ei{
+            margin-top: 15px;
+            display: inline-block;
+        }
+        .sec6{
+            background-color:white;
+        }
+        .iconbox{
+            width:50px;
+            height:50px;
+            border-radius:50%;
+            border:2px solid white;
+            
+        }
+        .ii{
+           
+            /* height: 300px;
+             */
+             width: 100%;
+        }
+        .inbox16{
+        min-height: 300px;
+        margin-top: 15px;
+        
+        }
+    
